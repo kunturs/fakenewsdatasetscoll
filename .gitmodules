@@ -1,0 +1,3 @@
+[submodule "Verification-corpus"]
+	path = Verification-corpus
+	url = https://github.com/MKLab-ITI/image-verification-corpus
