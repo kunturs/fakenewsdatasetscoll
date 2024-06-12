@@ -10,3 +10,6 @@
 [submodule "BuzzFace"]
 	path = BuzzFace
 	url = https://github.com/gsantia/BuzzFace
+[submodule "FCV-2018"]
+	path = FCV-2018
+	url = https://github.com/MKLab-ITI/fake-video-corpus
