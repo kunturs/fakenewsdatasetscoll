@@ -4,3 +4,6 @@
 [submodule "Fakeddit"]
 	path = Fakeddit
 	url = https://github.com/entitize/Fakeddit
+[submodule "M4"]
+	path = M4
+	url = https://github.com/mbzuai-nlp/M4
