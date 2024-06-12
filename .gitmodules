@@ -1,3 +1,6 @@
 [submodule "Verification-corpus"]
 	path = Verification-corpus
 	url = https://github.com/MKLab-ITI/image-verification-corpus
+[submodule "Fakeddit"]
+	path = Fakeddit
+	url = https://github.com/entitize/Fakeddit
