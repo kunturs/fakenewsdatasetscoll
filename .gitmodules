@@ -7,3 +7,6 @@
 [submodule "M4"]
 	path = M4
 	url = https://github.com/mbzuai-nlp/M4
+[submodule "BuzzFace"]
+	path = BuzzFace
+	url = https://github.com/gsantia/BuzzFace
