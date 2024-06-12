@@ -16,3 +16,6 @@
 [submodule "FacebookHoax"]
 	path = FacebookHoax
 	url = https://github.com/gabll/some-like-it-hoax
+[submodule "FakeNewsNet"]
+	path = FakeNewsNet
+	url = https://github.com/KaiDMML/FakeNewsNet
