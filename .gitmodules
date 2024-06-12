@@ -22,3 +22,6 @@
 [submodule "MisInfoText"]
 	path = MisInfoText
 	url = https://github.com/sfu-discourse-lab/MisInfoText
+[submodule "EMERGENT"]
+	path = EMERGENT
+	url = https://github.com/willferreira/mscproject
