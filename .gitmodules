@@ -19,3 +19,6 @@
 [submodule "FakeNewsNet"]
 	path = FakeNewsNet
 	url = https://github.com/KaiDMML/FakeNewsNet
+[submodule "MisInfoText"]
+	path = MisInfoText
+	url = https://github.com/sfu-discourse-lab/MisInfoText
