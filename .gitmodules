@@ -13,3 +13,6 @@
 [submodule "FCV-2018"]
 	path = FCV-2018
 	url = https://github.com/MKLab-ITI/fake-video-corpus
+[submodule "FacebookHoax"]
+	path = FacebookHoax
+	url = https://github.com/gabll/some-like-it-hoax
